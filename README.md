@@ -1,7 +1,8 @@
 # Spam_Detection
 A ml model based on binary classification and uses random forest algorithm that classifies your email as spam and ham (not spam).
 A ml model based on binary classification to classify the emails into two categories as spam and not spam(ham)✉️
-Dataset used is -https://www.kaggle.com/code/ardava/spam-email-classification-using-random-forest🔗 Have added comments in the project to help you understand it one step at a time😁
+## Dataset 
+https://www.kaggle.com/code/ardava/spam-email-classification-using-random-forest🔗 Have added comments in the project to help you understand it one step at a time😁
 ```
 import nltk #we will be using natural language toolkit
 nltk.download('stopwords') #used to remove the stopwords like 'a' , 'an', 'the','and'
